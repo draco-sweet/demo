@@ -1,8 +1,3 @@
-<<<<<< HEAD
-some text
- updates
+:q
 
-some more text
-
-more text
 
